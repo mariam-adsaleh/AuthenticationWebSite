@@ -6,6 +6,23 @@
      height: 100%; 
      width:100%;
 }
-.fw-normal mb-3 pb-3{
+.fw-normal {
     letter-spacing: 1px;
+}
+/* .mb-5 {
+    color: #393f81;
+} */
+.register{
+    color: #393f81;
+}
+/* a{
+    text-decoration: none;
+    text-decoration-color:  #393f81;
+} */
+#imgregister{
+    border-top-left-radius: .25rem; 
+    border-bottom-left-radius: .25rem; 
+    height: 90%; 
+    width: 90%;
+
 }
